@@ -20,7 +20,7 @@ body{
 
 /* navbar css starts here  */
 .bg-light{
-    background-color: #f2e9e4!important;
+    background-color: #3fa311!important;
 }
 
 .navbar-brand{
@@ -118,7 +118,7 @@ footer{
 }
 
 .github{
-    color: hsla(327, 100%, 50%, 0.233);
+    color: #1c7733;
 }
 
 .linkedin{
